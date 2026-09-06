@@ -20,10 +20,11 @@
 3. Запустить на симуляторе или устройстве
 
 ## Скриншоты
-(Добавьте скриншоты приложения)
+<img width="640" height="1312" alt="image" src="https://github.com/user-attachments/assets/0aed981f-63eb-4942-a182-e348391e68b6" />
+
 
 ## Автор
-Океан Студио
+Okean Studio
 
 ## Лицензия
 MIT
