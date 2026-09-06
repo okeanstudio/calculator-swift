@@ -1,0 +1,164 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## Build generated
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/
+*.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcodeproj/xcshareddata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcshareddata/
+*.xcworkspace/xcuserdata/
+
+## Version control
+.git/
+.svn/
+.hg/
+CVS/
+
+## OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+## Xcode temporary files
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+*.xcuserstate
+*.xcuserdatad
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.app
+*.framework
+
+## CocoaPods
+Pods/
+Podfile.lock
+
+## Carthage
+Carthage/
+Carthage/Build/
+Carthage/Checkouts/
+
+## Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+*.swp
+*.swo
+
+## Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+## Xcode automatically generated files
+**/xcuserdata/
+**/*.xccheckout
+**/*.xcscmblueprint
+**/*.xcuserstate
+**/*.xcworkspace/xcshareddata/
+**/*.xcworkspace/xcuserdata/
+**/Pods/
+**/Podfile.lock
+**/.build/
+**/.swiftpm/
+**/DerivedData/
+
+## Playgrounds
+*.playground/
+!*.playground/Contents.swift
+*.playground.zip
+*.playground.tar
+*.playground.tar.gz
+
+## Xcode Cloud
+*.cloudbuild/
+
+## Test reports
+*.test-report
+*.junit.xml
+
+## VSCode
+.vscode/
+
+## IntelliJ IDEA
+.idea/
+
+## Xcode project specific
+*.xcconfig
+*.xcargs
+*.xcenv
+*.xccode
+*.xctest
+
+## Misc
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.lock
+
+## iOS specific
+*.app.dSYM.zip
+*.app.dSYM
+*.app
+*.ipa
+*.plist
+*.mobileprovision
+*.profraw
+*.profdata
+*.xctest
+*.xctest.dSYM
+
+## Simulator
+com.apple.CoreSimulator/
+Simulator/
+*.simruntime
+
+## Provisioning profiles
+*.mobileprovision
+*.provisionprofile
+
+## Keychain
+*.keychain
+*.p12
+*.pem
+*.cer
+*.crt
+*.key
+*.der
+
+## Environment
+.env
+.env.local
+.env.*.local
+.DS_Store
+xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+## Tuist
+Tuist/.build/
+Tuist/Dependencies/
+Tuist/Projects/
+
+## Mint
+mint/
